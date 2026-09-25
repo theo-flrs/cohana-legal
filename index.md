@@ -34,6 +34,7 @@ Les données du compte et du foyer sont hébergées avec Supabase dans la régio
 - Compte et données actives du foyer : pendant l'utilisation du service, jusqu'à la suppression du compte ou du foyer.
 - Historique partagé du foyer : au plus 365 jours.
 - Événements de notification : au plus 90 jours ; traces de livraison push : au plus 30 jours.
+- Signalements d'erreurs techniques (zone de l'application, type d'erreur, plateforme, version ; sans message ni contenu du foyer) : au plus 30 jours, 30 signalements par jour et par compte au maximum.
 - Événements de calendrier externe échus : au plus 30 jours après leur fin. La déconnexion du calendrier supprime ses données synchronisées et ses identifiants de connexion.
 
 Quand un membre supprime son compte, ses données personnelles de compte, ses connexions et ses notifications sont supprimées. Les données qu'il a partagées dans le foyer restent accessibles à l'autre membre avec la mention « Ancien membre » à la place de son identité. Si le dernier membre part, le foyer et ses données sont supprimés.
