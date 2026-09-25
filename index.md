@@ -43,6 +43,8 @@ Quand un membre supprime son compte, ses données personnelles de compte, ses co
 
 Vous pouvez corriger votre profil et les informations du foyer dans l'application, déconnecter les calendriers facultatifs et désactiver les notifications. Vous pouvez demander l'accès, la rectification, l'effacement, la limitation ou la portabilité de vos données, ainsi que vous opposer à un traitement fondé sur l'intérêt légitime. Vous pouvez retirer à tout moment un choix facultatif, sans remettre en cause les traitements antérieurs.
 
+Pour la portabilité, **Profil › Réglages › Exporter mes données** produit immédiatement un fichier JSON contenant votre compte et les données partagées du foyer. La suppression du compte est disponible au même endroit.
+
 Écrivez à **florstheo@gmail.com** pour exercer ces droits. Vous pouvez aussi adresser une réclamation à la [CNIL](https://www.cnil.fr/).
 
 Cette politique sera mise à jour si les fonctions ou les prestataires de Cohana changent.
